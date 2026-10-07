@@ -10,6 +10,7 @@ Plain HTML and one stylesheet. No build step, scripts, cookies, analytics or ext
 | --- | --- |
 | `index.html` | `/` |
 | `privacy.html` | `/privacy` |
+| `terms.html` | `/terms` |
 | `CNAME` | Custom domain for GitHub Pages |
 
 When Arenas Molina Group's own website goes live with its privacy notice, point the Google
